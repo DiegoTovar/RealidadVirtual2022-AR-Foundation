@@ -1,5 +1,5 @@
 # RealidadVirtual2022-AR-Foundation
-Proyecto base AR Foundation
+Proyecto base AR Foundation (Cubo que gira mediante touch)
 
 
 Requisitos: 
